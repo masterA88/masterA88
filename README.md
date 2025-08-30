@@ -1,6 +1,10 @@
 ## Hi humans!👋
 
 
+### 🚀 **Let's PLay a Maths game**:
+
+[![Play Math Game](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://grid-shortest-paths-centxwvma3bedjj3g9uhod.streamlit.app/)
+
 Want to have a laugh? Play my AI-powered joke generator below:
 [![Jokes App](https://img.shields.io/badge/Joke%20App-Play-green)](https://mastera88.github.io/ai-jokes-generator/?v=3)
 
@@ -20,6 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### **Curious about me?**
 
 Welcome to my GitHub profile! Here you will find a collection of projects, scripts, and code related to my professional experience in data science, software development, AI, and business analytics. I enjoy exploring various tools and technologies to solve real-world problems. Below, I provide an overview of my skills, tools, and platforms I work with.
 
@@ -69,8 +76,6 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 - **Salesforce** is a platform I've integrated and developed solutions for in the business intelligence domain.
 
 
-🚀 **Try it live**:
 
-[![Play Math Game](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://grid-shortest-paths-centxwvma3bedjj3g9uhod.streamlit.app/)
 
 
