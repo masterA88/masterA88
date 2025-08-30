@@ -1,5 +1,7 @@
 ## Hi humans!👋
 
+[**Play AI Jokes Generator**](https://github.com/masterA88/ai-jokes-generator.git)
+
 <!--
 **masterA88/masterA88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
