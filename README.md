@@ -69,5 +69,8 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 - **Salesforce** is a platform I've integrated and developed solutions for in the business intelligence domain.
 
 
-🚀 **Try it live**: [Streamlit App](https://grid-shortest-paths-centxwvma3bedjj3g9uhod.streamlit.app/)
+🚀 **Try it live**:
+
+[![Play Math Game](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://grid-shortest-paths-centxwvma3bedjj3g9uhod.streamlit.app/)
+
 
