@@ -2,7 +2,8 @@
 
 
 Want to have a laugh? Play my AI-powered joke generator below:
-  [![Jokes App](https://img.shields.io/badge/Joke%20App-Play-green)](https://mastera88.github.io/ai-jokes-generator/)
+[![Jokes App](https://img.shields.io/badge/Joke%20App-Play-green)](https://mastera88.github.io/ai-jokes-generator/?v=3)
+
 
 
 <!--
