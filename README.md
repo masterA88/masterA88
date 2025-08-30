@@ -5,7 +5,9 @@
 
 [![Play Math Game](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://grid-shortest-paths-centxwvma3bedjj3g9uhod.streamlit.app/)
 
-Want to have a laugh? Play my AI-powered joke generator below:
+### 😄 **Want to have a laugh?**:
+
+Play my AI-powered joke generator below:
 [![Jokes App](https://img.shields.io/badge/Joke%20App-Play-green)](https://mastera88.github.io/ai-jokes-generator/?v=3)
 
 
