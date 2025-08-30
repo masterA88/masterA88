@@ -67,3 +67,7 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 - I'm experienced with version control via **GitLab** and task automation via **Airflow**.
 - For reporting and visualization, I utilize **Tableau**, **Power BI**, and **Excel**.
 - **Salesforce** is a platform I've integrated and developed solutions for in the business intelligence domain.
+
+
+🚀 **Try it live**: [Streamlit App](https://grid-shortest-paths-centxwvma3bedjj3g9uhod.streamlit.app/)
+
