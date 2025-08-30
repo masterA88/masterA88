@@ -1,5 +1,7 @@
 ## Hi humans!👋
 
+
+Want to have a laugh? Play my AI-powered joke generator below:
 [**Play AI Jokes Generator**](https://github.com/masterA88/ai-jokes-generator.git)
 
 <!--
