@@ -3,7 +3,7 @@
 
 Want to have a laugh? Play my AI-powered joke generator below:
   [![Jokes App](https://img.shields.io/badge/Joke%20App-Play-green)](https://mastera88.github.io/ai-jokes-generator/)
-- **AI and ML Projects**: Explore my repositories with cutting-edge AI and ML applications.
+
 
 <!--
 **masterA88/masterA88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
