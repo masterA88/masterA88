@@ -1,14 +1,20 @@
 ## Hi humans!👋
 
 
-### 🚀 **Let's PLay a Maths game**:
+### 🚀 **Ready for some brainy fun?**
 
+Grid Shortest Path – Can you outsmart the maze?
 [![Play Math Game](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://grid-shortest-paths-centxwvma3bedjj3g9uhod.streamlit.app/)
 
-### 😄 **Want to have a laugh?**:
 
-Play my AI-powered joke generator below:
+Sketch2Equation – Doodle a curve, and watch the math do its magic!
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sketch2equation-vsftbwt7q8vkrhfejcrqbz.streamlit.app/)
+
+### 😄 **Need a giggle break?**
+
+🤣 Try my AI-powered joke machine — it might just crack you up!
 [![Jokes App](https://img.shields.io/badge/Joke%20App-Play-green)](https://mastera88.github.io/ai-jokes-generator/?v=3)
+
 
 
 
