@@ -13,7 +13,7 @@ Sketch2Equation – Doodle a curve, and watch the math do its magic!
 ### 😄 **Need a giggle break?**
 
 🤣 Try my AI-powered joke machine — it might just crack you up!
-[![Jokes App](https://img.shields.io/badge/Joke%20App-Play-green)](https://mastera88.github.io/ai-jokes-generator/?v=3)
+[![Jokes App](https://img.shields.io/badge/Joke%20App-Play-green)](https://mastera88.github.io/ai-jokes-generator/)
 
 
 
