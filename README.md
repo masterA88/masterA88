@@ -90,32 +90,18 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 
 | Project Title | Methods & Techniques | Links |
 |--------------|---------------------|-------|
-| **Sentiment-Driven Rating Prediction for Hotel Reviews** | • TF-IDF Vectorization<br>• Count Vectorization<br>• Random Forest (500 trees)<br>• N-gram Analysis (1-3 grams)<br>• 5-fold Stratified Cross-Validation<br>• spaCy NLP Processing<br>• Custom Domain Filtering | [📄 Summary](#) \| [💻 Code](#) \| [📊 Notebook](#) |
-| **Dynamic Flight Price Forecasting with XGBoost** | • XGBoost Regression (500 iterations)<br>• Feature Engineering (temporal, route, carrier)<br>• Target Encoding<br>• Early Stopping & Regularization<br>• Residual Analysis<br>• 80-20 Train-Test Split | [📄 Summary](#) \| [💻 Code](#) \| [📊 Notebook](#) |
-| **High-Performance Hotel Review Classification (92% Accuracy)** | • Logistic Regression<br>• TF-IDF Vectorization<br>• Multi-class Classification (One-vs-Rest)<br>• Text Preprocessing Pipeline<br>• Stop Word Removal<br>• Hyperparameter Tuning (C parameter)<br>• Stratified Sampling | [📄 Summary](#) \| [💻 Code](#) \| [📊 Notebook](#) |
-| **Comparative Analysis: ML vs Deep Learning for Sentiment** | • Random Forest Classifier<br>• Support Vector Classifier (SVC)<br>• Decision Tree<br>• LSTM Neural Networks<br>• TensorFlow/Keras<br>• Word Embeddings (128-dim)<br>• Dropout Regularization<br>• GridSearchCV<br>• Adam Optimizer | [📄 Summary](#) \| [💻 Code](#) \| [📊 Notebook](#) |
-| **Comprehensive Anomaly Detection Framework** | • Z-Score Method<br>• Interquartile Range (IQR)<br>• Grubbs' Test<br>• Isolation Forest<br>• DBSCAN Clustering<br>• Statistical Hypothesis Testing<br>• Ensemble Voting | [📄 Summary](#) \| [💻 Code](#) \| [📊 Notebook](#) |
-| **Advanced Ensemble Flight Price Prediction (98.47% R²)** | • Stacking Ensemble<br>• Blending Ensemble<br>• XGBoost<br>• LightGBM<br>• CatBoost<br>• Random Forest<br>• Ridge Regression<br>• 5-fold Cross-Validation<br>• Meta-Learner Training | [📄 Summary](#) \| [💻 Code](#) \| [📊 Notebook](#) |
-| **Data-Driven Market Selection for E-Learning Platform** | • Market Sizing Analysis<br>• Willingness-to-Pay Analysis<br>• Composite Scoring<br>• Geographic Heat Mapping<br>• Quadrant Analysis<br>• Statistical Distribution Analysis<br>• Data Cleaning & Validation | [📄 Summary](#) \| [💻 Code](#) \| [📊 Notebook](#) |
-| **College Major Economic Outcomes Visualization** | • Scatter Plots<br>• Histograms<br>• Bar Plots<br>• Box Plots<br>• Distribution Analysis<br>• Correlation Analysis<br>• Gender Equity Analysis<br>• Data Normalization | [📄 Summary](#) \| [💻 Code](#) \| [📊 Notebook](#) |
-| **Statistical Investigation of Fandango Rating Bias** | • Welch's t-test<br>• Mann-Whitney U test<br>• Distribution Comparison<br>• Kernel Density Estimation<br>• Skewness Calculation<br>• Cohen's d Effect Size<br>• Cross-Platform Correlation<br>• Temporal Analysis | [📄 Summary](#) \| [💻 Code](#) \| [📊 Notebook](#) |
-| **Machine Learning Flight Price Prediction (95.15% R²)** | • Random Forest Regressor (500 trees)<br>• Feature Engineering<br>• One-Hot Encoding<br>• Label Encoding<br>• Datetime Feature Extraction<br>• GridSearchCV<br>• Out-of-Bag Scoring<br>• Feature Importance Analysis | [📄 Summary](#) \| [💻 Code](#) \| [📊 Notebook](#) |
-| **NLP-Based Password Strength Classification** | • Logistic Regression<br>• TF-IDF Character N-grams<br>• Shannon Entropy Calculation<br>• Pattern Recognition<br>• Dictionary Word Detection<br>• Keyboard Adjacency Detection<br>• Multi-class Classification<br>• L2 Regularization | [📄 Summary](#) \| [💻 Code](#) \| [📊 Notebook](#) |
+| **Sentiment-Driven Rating Prediction for Hotel Reviews** | • TF-IDF Vectorization<br>• Count Vectorization<br>• Random Forest (500 trees)<br>• N-gram Analysis (1-3 grams)<br>• 5-fold Stratified Cross-Validation<br>• spaCy NLP Processing<br>• Custom Domain Filtering | [📄 Summary](#) |
+| **Dynamic Flight Price Forecasting with XGBoost** | • XGBoost Regression (500 iterations)<br>• Feature Engineering (temporal, route, carrier)<br>• Target Encoding<br>• Early Stopping & Regularization<br>• Residual Analysis<br>• 80-20 Train-Test Split | [📄 Summary](#)  |
+| **High-Performance Hotel Review Classification (92% Accuracy)** | • Logistic Regression<br>• TF-IDF Vectorization<br>• Multi-class Classification (One-vs-Rest)<br>• Text Preprocessing Pipeline<br>• Stop Word Removal<br>• Hyperparameter Tuning (C parameter)<br>• Stratified Sampling |
+| **Comparative Analysis: ML vs Deep Learning for Sentiment** | • Random Forest Classifier<br>• Support Vector Classifier (SVC)<br>• Decision Tree<br>• LSTM Neural Networks<br>• TensorFlow/Keras<br>• Word Embeddings (128-dim)<br>• Dropout Regularization<br>• GridSearchCV<br>• Adam Optimizer | [📄 Summary](#) |
+| **Comprehensive Anomaly Detection Framework** | • Z-Score Method<br>• Interquartile Range (IQR)<br>• Grubbs' Test<br>• Isolation Forest<br>• DBSCAN Clustering<br>• Statistical Hypothesis Testing<br>• Ensemble Voting | [📄 Summary](#) |
+| **Advanced Ensemble Flight Price Prediction (98.47% R²)** | • Stacking Ensemble<br>• Blending Ensemble<br>• XGBoost<br>• LightGBM<br>• CatBoost<br>• Random Forest<br>• Ridge Regression<br>• 5-fold Cross-Validation<br>• Meta-Learner Training | [📄 Summary](#) |
+| **Data-Driven Market Selection for E-Learning Platform** | • Market Sizing Analysis<br>• Willingness-to-Pay Analysis<br>• Composite Scoring<br>• Geographic Heat Mapping<br>• Quadrant Analysis<br>• Statistical Distribution Analysis<br>• Data Cleaning & Validation | [📄 Summary](#)  |
+| **College Major Economic Outcomes Visualization** | • Scatter Plots<br>• Histograms<br>• Bar Plots<br>• Box Plots<br>• Distribution Analysis<br>• Correlation Analysis<br>• Gender Equity Analysis<br>• Data Normalization | [📄 Summary](#)  |
+| **Statistical Investigation of Fandango Rating Bias** | • Welch's t-test<br>• Mann-Whitney U test<br>• Distribution Comparison<br>• Kernel Density Estimation<br>• Skewness Calculation<br>• Cohen's d Effect Size<br>• Cross-Platform Correlation<br>• Temporal Analysis | [📄 Summary](#) |
+| **Machine Learning Flight Price Prediction (95.15% R²)** | • Random Forest Regressor (500 trees)<br>• Feature Engineering<br>• One-Hot Encoding<br>• Label Encoding<br>• Datetime Feature Extraction<br>• GridSearchCV<br>• Out-of-Bag Scoring<br>• Feature Importance Analysis | [📄 Summary](#) |
+| **NLP-Based Password Strength Classification** | • Logistic Regression<br>• TF-IDF Character N-grams<br>• Shannon Entropy Calculation<br>• Pattern Recognition<br>• Dictionary Word Detection<br>• Keyboard Adjacency Detection<br>• Multi-class Classification<br>• L2 Regularization | [📄 Summary](#)  |
 
 ---
-
-### How to Add New Projects
-
-To add a new project, simply copy this template row and fill in your details:
-```markdown
-| **Your Project Title** | • Method 1<br>• Method 2<br>• Method 3<br>• Add more as needed | [📄 Summary](#) \| [💻 Code](#) \| [📊 Notebook](#) |
-```
-
-**Link Icons Guide:**
-- 📄 Summary = Link to PDF summary document
-- 💻 Code = Link to GitHub repository
-- 📊 Notebook = Link to Jupyter notebook or Kaggle
-- 📈 Dashboard = Link to interactive dashboard (if applicable)
-- 🎯 Demo = Link to live demo (if applicable)
 
 ---
