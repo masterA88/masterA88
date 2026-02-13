@@ -86,24 +86,68 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 
 
 
+
 ## 📊 Machine Learning & Data Science Projects
+
+### 🔮 Forecasting & Time Series
+*Temporal pattern modeling, sequential prediction, and dynamic pricing systems*
 
 | Project Title | Methods & Techniques | Links |
 |--------------|---------------------|-------|
-| **Deep Learning for Railway Delay Prediction & Management** | • Periodic Event Scheduling Problem (PESP)<br>• Graph Neural Networks (GNN)<br>• Graph Attention Networks (GAT)<br>• Long Short-Term Memory (LSTM)<br>• Spatiotemporal Modeling<br>• Reinforcement Learning (PPO)<br>• Stochastic Optimization<br>• Delay Propagation Modeling<br>• Multi-Objective Decision Making<br>• Uncertainty Quantification (MC Dropout)<br>• PyTorch & PyTorch Geometric<br>• Time-Series Forecasting<br>• Custom Weighted Loss Functions<br>• Early Stopping & LR Scheduling<br>• Multi-Head Attention Mechanism<br>• Hub-and-Spoke Network Topology<br>• Synthetic Data Generation<br>• Operations Research Integration<br>• Real-Time Prediction System | [Summary](https://github.com/masterA88/project-docs/blob/main/railway_delay_summary_github.pdf) |
-| **Predictive Validation of Multi-Level Educational Placement Systems** | • Stratified Random Sampling<br>• One-Way ANOVA (Analysis of Variance)<br>• Tukey HSD Post-Hoc Tests<br>• Pearson Correlation Analysis<br>• Cohen's d Effect Sizes<br>• Eta-Squared (η²) Calculation<br>• Shapiro-Wilk Normality Tests<br>• Levene's Homogeneity Tests<br>• Python (pandas, numpy, scipy)<br>• statsmodels Library<br>• Statistical Visualization (matplotlib, seaborn)<br>• Cross-Sectional Study Design<br>• Descriptive Statistics<br>• Pairwise Comparisons<br>• Family-Wise Error Correction<br>• Statistical Significance Testing (p-values)<br>• Predictive Validity Assessment | [ Summary](https://github.com/masterA88/project-docs/blob/main/predictive-validation-of-multilevel-educational-placement-system.pdf) |
-| **Graph-Based E-Commerce Recommender System** | • Neo4j Graph Database<br>• Cypher Query Language<br>• Jaccard Similarity Index<br>• Collaborative Filtering<br>• Python (pandas, neo4j, networkx)<br>• Surprise Library Validation<br>• SVD (Singular Value Decomposition)<br>• Batch Processing with UNWIND<br>• Network Visualization<br>• Real-time Recommendation Engine<br>• Data Cleaning Pipeline (10 steps)<br>• Graph Traversal Algorithms | [Summary](https://github.com/masterA88/project-docs/blob/main/graph_recommender_system.pdf) <br><br> [Code](#) |
-| **Sentiment-Driven Rating Prediction for Hotel Reviews** | • TF-IDF Vectorization<br>• Count Vectorization<br>• Random Forest (500 trees)<br>• N-gram Analysis (1-3 grams)<br>• 5-fold Stratified Cross-Validation<br>• spaCy NLP Processing<br>• Custom Domain Filtering | [Summary](https://github.com/masterA88/project-docs/blob/main/hotel_review_sentiment_analysis.pdf) |
-| **Dynamic Flight Price Forecasting with XGBoost** | • XGBoost Regression (500 iterations)<br>• Feature Engineering (temporal, route, carrier)<br>• Target Encoding<br>• Early Stopping & Regularization<br>• Residual Analysis<br>• 80-20 Train-Test Split | [Summary](https://github.com/masterA88/project-docs/blob/main/flight_price_forecasting.pdf)  |
-| **High-Performance Hotel Review Classification (92% Accuracy)** | • Logistic Regression<br>• TF-IDF Vectorization<br>• Multi-class Classification (One-vs-Rest)<br>• Text Preprocessing Pipeline<br>• Stop Word Removal<br>• Hyperparameter Tuning (C parameter)<br>• Stratified Sampling | [Summary](https://github.com/masterA88/project-docs/blob/main/hotel_reviews_92_acc.pdf)  |
-| **Comparative Analysis: ML vs Deep Learning for Sentiment** | • Random Forest Classifier<br>• Support Vector Classifier (SVC)<br>• Decision Tree<br>• LSTM Neural Networks<br>• TensorFlow/Keras<br>• Word Embeddings (128-dim)<br>• Dropout Regularization<br>• GridSearchCV<br>• Adam Optimizer | [Summary](https://github.com/masterA88/project-docs/blob/main/sentiment_sklearn_tensorflow.pdf) |
+| **Deep Learning for Railway Delay Prediction & Management** | • Periodic Event Scheduling Problem (PESP)<br>• Graph Neural Networks (GNN)<br>• Graph Attention Networks (GAT)<br>• Long Short-Term Memory (LSTM)<br>• Spatiotemporal Modeling<br>• Reinforcement Learning (PPO)<br>• Delay Propagation Modeling<br>• Uncertainty Quantification (MC Dropout)<br>• Real-Time Prediction System | [Summary](https://github.com/masterA88/project-docs/blob/main/railway_delay_summary_github.pdf) |
+| **Dynamic Flight Price Forecasting with XGBoost** | • XGBoost Regression (500 iterations)<br>• Feature Engineering (temporal, route, carrier)<br>• Target Encoding<br>• Early Stopping & Regularization<br>• Residual Analysis<br>• 80-20 Train-Test Split | [Summary](https://github.com/masterA88/project-docs/blob/main/flight_price_forecasting.pdf) |
+| **Advanced Ensemble Flight Price Prediction (98.47% R²)** | • Stacking Ensemble<br>• Blending Ensemble<br>• XGBoost, LightGBM, CatBoost<br>• Random Forest, Ridge Regression<br>• 5-fold Cross-Validation<br>• Meta-Learner Training | [Summary](https://github.com/masterA88/project-docs/blob/main/flight_price_stacking_blending.pdf) |
+| **Flight Price Prediction** | • LightGBM with DART Boosting<br>• Chronological Train/Test Split<br>• SHAP Interpretability<br>• Booking Window Simulation<br>• Holiday Proximity Features<br>• Revenue Elasticity Modeling | [Summary](https://github.com/masterA88/project-docs/blob/main/Flight%20Price%20Prediction.pdf) |
+
+---
+
+### 🌐 Graph Machine Learning
+*Relational data modeling, network analysis, and graph-based recommendation*
+
+| Project Title | Methods & Techniques | Links |
+|--------------|---------------------|-------|
+| **Graph-Based E-Commerce Recommender System** | • Neo4j Graph Database<br>• Cypher Query Language<br>• Jaccard Similarity Index<br>• Collaborative Filtering<br>• Graph Traversal Algorithms<br>• Network Visualization<br>• Real-time Recommendation Engine | [Summary](https://github.com/masterA88/project-docs/blob/main/graph_recommender_system.pdf)<br>[Code](#) |
+
+---
+
+### 🗣️ Natural Language Processing (NLP)
+*Text classification, sentiment analysis, and linguistic feature engineering*
+
+| Project Title | Methods & Techniques | Links |
+|--------------|---------------------|-------|
+| **Sentiment-Driven Rating Prediction for Hotel Reviews** | • TF-IDF Vectorization<br>• Count Vectorization<br>• Random Forest (500 trees)<br>• N-gram Analysis (1-3 grams)<br>• 5-fold Stratified Cross-Validation<br>• spaCy NLP Processing | [Summary](https://github.com/masterA88/project-docs/blob/main/hotel_review_sentiment_analysis.pdf) |
+| **High-Performance Hotel Review Classification (92% Accuracy)** | • Logistic Regression<br>• TF-IDF Vectorization<br>• Multi-class Classification (One-vs-Rest)<br>• Text Preprocessing Pipeline<br>• Hyperparameter Tuning (C parameter) | [Summary](https://github.com/masterA88/project-docs/blob/main/hotel_reviews_92_acc.pdf) |
+| **Comparative Analysis: ML vs Deep Learning for Sentiment** | • Random Forest, SVC, Decision Tree<br>• LSTM Neural Networks<br>• TensorFlow/Keras<br>• Word Embeddings (128-dim)<br>• Dropout Regularization<br>• GridSearchCV | [Summary](https://github.com/masterA88/project-docs/blob/main/sentiment_sklearn_tensorflow.pdf) |
+| **NLP-Based Password Strength Classification** | • TF-IDF Character N-grams<br>• Shannon Entropy Calculation<br>• Pattern Recognition<br>• Dictionary Word Detection<br>• Keyboard Adjacency Detection | [Summary](https://github.com/masterA88/project-docs/blob/main/password_strength_nlp%20v2.pdf) |
+
+---
+
+### 📊 Statistical Analysis & Inference
+*Hypothesis testing, experimental design, and causal frameworks*
+
+| Project Title | Methods & Techniques | Links |
+|--------------|---------------------|-------|
+| **Predictive Validation of Multi-Level Educational Placement Systems** | • Stratified Random Sampling<br>• One-Way ANOVA & Tukey HSD<br>• Pearson Correlation<br>• Cohen's d Effect Sizes<br>• Eta-Squared (η²)<br>• Shapiro-Wilk & Levene's Tests<br>• Cross-Sectional Study Design | [Summary](https://github.com/masterA88/project-docs/blob/main/predictive-validation-of-multilevel-educational-placement-system.pdf) |
+| **Statistical Investigation of Fandango Rating Bias** | • Benjamini-Hochberg FDR Correction<br>• Bootstrap Confidence Intervals (10,000 resamples)<br>• Benford's Law Fraud Detection<br>• Non/Parametric Testing (Mann-Whitney U, t-tests)<br>• Natural Experiment Design<br>• Causal Inference Framework | [Summary](https://github.com/masterA88/project-docs/blob/main/fandango_analysis_latex_summary.pdf) |
+
+---
+
+### ⚠️ Anomaly Detection
+*Outlier identification and irregular pattern discovery*
+
+| Project Title | Methods & Techniques | Links |
+|--------------|---------------------|-------|
 | **Comprehensive Anomaly Detection Framework** | • Z-Score Method<br>• Interquartile Range (IQR)<br>• Grubbs' Test<br>• Isolation Forest<br>• DBSCAN Clustering<br>• Statistical Hypothesis Testing<br>• Ensemble Voting | [Summary](https://github.com/masterA88/project-docs/blob/main/anomaly_detection_methods.pdf) |
-| **Advanced Ensemble Flight Price Prediction (98.47% R²)** | • Stacking Ensemble<br>• Blending Ensemble<br>• XGBoost<br>• LightGBM<br>• CatBoost<br>• Random Forest<br>• Ridge Regression<br>• 5-fold Cross-Validation<br>• Meta-Learner Training | [Summary](https://github.com/masterA88/project-docs/blob/main/flight_price_stacking_blending.pdf) |
-| **Data-Driven Market Selection for E-Learning Platform** | • Market Sizing Analysis<br>• Willingness-to-Pay Analysis<br>• Composite Scoring<br>• Geographic Heat Mapping<br>• Quadrant Analysis<br>• Statistical Distribution Analysis<br>• Data Cleaning & Validation | [Summary](https://github.com/masterA88/project-docs/blob/main/market_analysis_elearning.pdf)  |
-| **College Major Economic Outcomes Visualization** | • Scatter Plots<br>• Histograms<br>• Bar Plots<br>• Box Plots<br>• Distribution Analysis<br>• Correlation Analysis<br>• Gender Equity Analysis<br>• Data Normalization | [Summary](https://github.com/masterA88/project-docs/blob/main/college_major_earnings.pdf)  |
-| **Statistical Investigation of Fandango Rating Bias** | • Multiple Hypothesis Testing (Benjamini-Hochberg FDR Correction) <br>• Bootstrap Confidence Intervals (10,000 resamples)<br>• Statistical Power Analysis (Cohen 1988 framework)<br>• Effect Size Calculation (Hedge's g bias correction)<br>• Benford's Law Fraud Detection (MAD criterion)<br>• Non-parametric Testing (Mann-Whitney U, Kolmogorov-Smirnov)<br>• Parametric Testing (Student's t-test, Welch's t-test)<br>• Bootstrap Permutation Testing (Exact p-values)<br>• Statistical Assumption Testing (Normality, Homoscedasticity)<br>• Natural Experiment Design (Causal inference framework)<br>• Business Impact Quantification (Elasticity modeling)<br>• Consumer Welfare Analysis (Triangular approximation)<br>• Time Series Comparison (Before/After analysis)<br>• Distribution Analysis (Density estimation, moments)<br>• Publication-Quality Visualization (Multi-panel figures)<br>• Robust Statistical Inference (Multiple test battery)<br>• Monte Carlo Methods (Bootstrap sampling) | [Summary](https://github.com/masterA88/project-docs/blob/main/fandango_analysis_latex_summary.pdf) |
-| **Flight Price Prediction** |• Temporal Feature Engineering (Bandara et al., 2021)<br>• Chronological Train/Test Split (Time-Series Validation)<br>• LightGBM with DART Boosting (Ke et al., 2017)<br>• SHAP Interpretability (Lundberg & Lee, 2017)<br>• Domain-Aware Outlier Handling (₹2,000–₹50,000 Bounds)<br>• Target-Guided Categorical Encoding<br>• Robust Mixed-Format Time Parsing<br>• Booking Window Simulation (Dynamic Pricing)<br>• Route Popularity Index (Network Effects)<br>• Holiday Proximity Feature Engineering<br>• Business Impact Quantification (Revenue Protection Metrics)<br>• MAE Optimization (Robust to Price Outliers)<br>• L1/L2 Regularization (Multicollinearity Handling)<br>• Early Stopping with Time-Series Validation<br>• Feature Importance Ranking via SHAP Values<br>• Production-Ready Data Pipeline Engineering<br>• Revenue Elasticity Modeling (Fiig et al., 2019)<br>• Stakeholder-Friendly Visualization (SHAP Summary Plots)<br>• Domain-Specific Temporal Validation (No Look-Ahead Bias)<br>• Minimal Dependency Architecture (LightGBM + SHAP)| [Summary](https://github.com/masterA88/project-docs/blob/main/Flight%20Price%20Prediction.pdf) |
-| **NLP-Based Password Strength Classification** | • Logistic Regression<br>• TF-IDF Character N-grams<br>• Shannon Entropy Calculation<br>• Pattern Recognition<br>• Dictionary Word Detection<br>• Keyboard Adjacency Detection<br>• Multi-class Classification<br>• L2 Regularization | [Summary](https://github.com/masterA88/project-docs/blob/main/password_strength_nlp%20v2.pdf)  |
+
+---
+
+### 💼 Business Analytics & Visualization
+*Market analysis, strategic decision support, and insight-driven visualization*
+
+| Project Title | Methods & Techniques | Links |
+|--------------|---------------------|-------|
+| **Data-Driven Market Selection for E-Learning Platform** | • Market Sizing Analysis<br>• Willingness-to-Pay Analysis<br>• Composite Scoring<br>• Geographic Heat Mapping<br>• Quadrant Analysis | [Summary](https://github.com/masterA88/project-docs/blob/main/market_analysis_elearning.pdf) |
+| **College Major Economic Outcomes Visualization** | • Scatter Plots, Histograms, Box Plots<br>• Distribution & Correlation Analysis<br>• Gender Equity Analysis<br>• Data Normalization | [Summary](https://github.com/masterA88/project-docs/blob/main/college_major_earnings.pdf) |
 
 ---
 
