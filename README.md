@@ -108,6 +108,7 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 | Project Title | Methods & Techniques | Links |
 |--------------|---------------------|-------|
 | **Graph-Based E-Commerce Recommender System** | • Neo4j Graph Database<br>• Cypher Query Language<br>• Jaccard Similarity Index<br>• Collaborative Filtering<br>• Graph Traversal Algorithms<br>• Network Visualization<br>• Real-time Recommendation Engine | [Report](https://github.com/masterA88/project-docs/blob/main/graph_recommender_system.pdf)<br>[Code](#) |
+| **Deep Learning for Railway Delay Prediction & Management** | • Periodic Event Scheduling Problem (PESP)<br>• Graph Neural Networks (GNN)<br>• Graph Attention Networks (GAT)<br>• Long Short-Term Memory (LSTM)<br>• Spatiotemporal Modeling<br>• Reinforcement Learning (PPO)<br>• Delay Propagation Modeling<br>• Uncertainty Quantification (MC Dropout)<br>• Real-Time Prediction System | [Report](https://github.com/masterA88/project-docs/blob/main/railway_delay_summary_github.pdf) |
 
 ---
 
