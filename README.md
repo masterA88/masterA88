@@ -115,7 +115,7 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 ### 📦 Optimal Transport
 | Project Title | Methods & Techniques | Links |
 |--------------|---------------------|-------|
-| **traffic_forecasting** | 
+| **Optimal Transport in GANs** | • Systematic OT Theory Validation<br>• 6 GAN Variants Comparison<br>• Novel Mode Collapse Metrics<br>• 99.6% FID Improvement<br>• Publication-Ready Analysis<br>• Controlled Synthetic Experiments | [Report](docs/OT_GAN_Complete_Guide.pdf) |
 
 ---
 
