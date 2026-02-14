@@ -111,6 +111,12 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 | **Deep Learning for Railway Delay Prediction & Management** | • Periodic Event Scheduling Problem (PESP)<br>• Graph Neural Networks (GNN)<br>• Graph Attention Networks (GAT)<br>• Long Short-Term Memory (LSTM)<br>• Spatiotemporal Modeling<br>• Reinforcement Learning (PPO)<br>• Delay Propagation Modeling<br>• Uncertainty Quantification (MC Dropout)<br>• Real-Time Prediction System | [Report](https://github.com/masterA88/project-docs/blob/main/railway_delay_summary_github.pdf) |
 
 ---
+### 📦 Optimal Transport
+| Project Title | Methods & Techniques | Links |
+|--------------|---------------------|-------|
+| **traffic_forecasting** | 
+
+---
 
 ### 🗣️ Natural Language Processing (NLP)
 *Text classification, sentiment analysis, and linguistic feature engineering*
