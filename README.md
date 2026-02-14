@@ -138,6 +138,7 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 |--------------|---------------------|-------|
 | **Predictive Validation of Multi-Level Educational Placement Systems** | • Stratified Random Sampling<br>• One-Way ANOVA & Tukey HSD<br>• Pearson Correlation<br>• Cohen's d Effect Sizes<br>• Eta-Squared (η²)<br>• Shapiro-Wilk & Levene's Tests<br>• Cross-Sectional Study Design | [Report](https://github.com/masterA88/project-docs/blob/main/predictive-validation-of-multilevel-educational-placement-system.pdf) |
 | **Statistical Investigation of Fandango Rating Bias** | • Benjamini-Hochberg FDR Correction<br>• Bootstrap Confidence Intervals (10,000 resamples)<br>• Benford's Law Fraud Detection<br>• Non/Parametric Testing (Mann-Whitney U, t-tests)<br>• Natural Experiment Design<br>• Causal Inference Framework | [Report](https://github.com/masterA88/project-docs/blob/main/fandango_analysis_latex_summary.pdf) |
+| Student Performance & Aptitude Analysis | • Robust One-Way ANOVA (F=213.43, p<0.001)<br>• Tukey HSD & Cohen's d Analysis<br>• Strong Correlation (r=0.887, η²=0.744)<br>• Balanced Design Validation<br>• Comprehensive Statistical Testing | [Report](complete_detailed_report_FINAL.pdf) |
 
 ---
 
