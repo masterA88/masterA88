@@ -115,7 +115,9 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 ### 📦 Optimal Transport
 | Project Title | Methods & Techniques | Links |
 |--------------|---------------------|-------|
-| **Optimal Transport GAN Research** | • WGAN with Gradient Penalty<br>• True Wasserstein Distance (LP)<br>• 79% W₁ Reduction Achieved<br>• Mode Collapse Elimination<br>• Bootstrap Confidence Intervals<br>• Statistical Significance Tests | [Report](https://github.com/masterA88/project-docs/blob/main/OT_GAN_Complete_Guide%20v2.pdf)| 
+| **Bridging the Wasserstein Gap: A Systematic
+Empirical Validation of Optimal Transport
+Theory in Generative Adversarial Networks** | • WGAN with Gradient Penalty<br>• True Wasserstein Distance (LP)<br>• 79% W₁ Reduction Achieved<br>• Mode Collapse Elimination<br>• Bootstrap Confidence Intervals<br>• Statistical Significance Tests | [Report](https://github.com/masterA88/project-docs/blob/main/OT_GAN_Complete_Guide%20v2.pdf)| 
 
 ---
 
