@@ -163,5 +163,10 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 | **College Major Economic Outcomes Visualization** | • Scatter Plots, Histograms, Box Plots<br>• Distribution & Correlation Analysis<br>• Gender Equity Analysis<br>• Data Normalization | [Report](https://github.com/masterA88/project-docs/blob/main/college_major_earnings.pdf) |
 
 ---
+### 🎤 Speaking & Workshops
+*Technical workshops delivered to industry audiences*
 
+| Workshop Title | Audience & Context | Core Technical Project | Materials |
+|---------------|-------------------|------------------------|-----------|
+| **Graph-Based Fraud Detection: From Theory to Production** | Industry workshop for fintech compliance teams (Feb 2026)<br>• 45-minute technical deep dive<br>• Live Neo4j/Python demo<br>• Q&A on production deployment | [Graph ML Project](#-graph-machine-learning)<br>• Neo4j Aura + NetworkX<br>• 36-client fraud ring detection<br>• Eigenvector centrality for ringleader identification | [Workshop Slides](https://www.canva.com/design/DAG_NgE7yI0/nIpfRcVRKL5A5uYNOgbvnA/view?utm_content=DAG_NgE7yI0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5c3e0eb1b8)<br>[Demo Code](https://github.com/masterA88/project-docs/tree/main/fraud_detection_using%20NEO4J) |
 ---
