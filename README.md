@@ -1,5 +1,7 @@
 ## Hi humans!👋
 
+[![Website](https://img.shields.io/badge/🌐_My_Website-master--hilmi.vercel.app-blue?style=for-the-badge)](https://master-hilmi.vercel.app/)
+
 
 ### 🚀 **Ready for some brainy fun?**
 
@@ -9,6 +11,14 @@ Grid Shortest Path – Can you outsmart the maze?
 
 Sketch2Equation – Doodle a curve, and watch the math do its magic!
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sketch2equation-vsftbwt7q8vkrhfejcrqbz.streamlit.app/)
+
+### 📚 **Project documentation**
+
+**Patih** — Asisten Regulasi Kemensos (Hybrid RAG chatbot, zero-cost Oracle ARM deploy)
+[![Patih Docs](https://img.shields.io/badge/📄_Patih_Docs-PDF-red?style=flat-square)](https://github.com/masterA88/project-docs/blob/main/patih/patih.pdf)
+
+**Empu Harga** — Used-motorcycle price-suggestion (LGBM-quantile + CQR + SW-CP)
+[![Empu Harga Docs](https://img.shields.io/badge/📄_Empu_Harga_Docs-PDF-red?style=flat-square)](https://github.com/masterA88/project-docs/blob/main/empu-harga/empu-harga.pdf)
 
 ### 😄 **Need a giggle break?**
 
@@ -73,18 +83,6 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 ### **Databases**
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com) 
 [![DBear](https://img.shields.io/badge/DBear-4D87A8?style=flat-square&logo=data&logoColor=white)](https://dbear.io)
-
-## 🔧 My Workflow
-
-- I leverage **VBA** and **Google Apps Script** for automating workflows and tasks in Microsoft Office and Google Workspace.
-- **Python** and **R** are my go-to languages for data analysis, machine learning, and automation. I use **Jupyter Notebook** for interactive development.
-- **SQL** helps me to manage and query databases, with experience in **MySQL** and **DBear** for storing and retrieving data.
-- I'm experienced with version control via **GitLab** and task automation via **Airflow**.
-- For reporting and visualization, I utilize **Tableau**, **Power BI**, and **Excel**.
-- **Salesforce** is a platform I've integrated and developed solutions for in the business intelligence domain.
-
-
-
 
 
 ## 📊 Machine Learning & Data Science Projects
