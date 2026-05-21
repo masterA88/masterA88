@@ -12,14 +12,6 @@ Grid Shortest Path – Can you outsmart the maze?
 Sketch2Equation – Doodle a curve, and watch the math do its magic!
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sketch2equation-vsftbwt7q8vkrhfejcrqbz.streamlit.app/)
 
-### 📚 **Project documentation**
-
-**Patih** — Asisten Regulasi Kemensos (Hybrid RAG chatbot, zero-cost Oracle ARM deploy)
-[![Patih Docs](https://img.shields.io/badge/📄_Patih_Docs-PDF-red?style=flat-square)](https://github.com/masterA88/project-docs/blob/main/patih/patih.pdf)
-
-**Empu Harga** — Used-motorcycle price-suggestion (LGBM-quantile + CQR + SW-CP)
-[![Empu Harga Docs](https://img.shields.io/badge/📄_Empu_Harga_Docs-PDF-red?style=flat-square)](https://github.com/masterA88/project-docs/blob/main/empu-harga/empu-harga.pdf)
-
 ### 😄 **Need a giggle break?**
 
 🤣 Try my AI-powered joke machine — it might just crack you up!
@@ -82,7 +74,75 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 
 ### **Databases**
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com) 
-[![DBear](https://img.shields.io/badge/DBear-4D87A8?style=flat-square&logo=data&logoColor=white)](https://dbear.io)
+[![DBear](https://img.shields.io/badge/DBear-4D87A8?style=flat-square&logo=data&logoColor=white)](https://dbear.io) 
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)](https://neo4j.com) 
+[![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)](https://duckdb.org) 
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org)
+
+### **Machine Learning & Deep Learning**
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) 
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org) 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org) 
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io) 
+[![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io) 
+[![XGBoost](https://img.shields.io/badge/XGBoost-EB6B1A?style=flat-square&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io) 
+[![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=catboost&logoColor=black)](https://catboost.ai) 
+[![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co) 
+[![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)](https://onnx.ai) 
+[![Optuna](https://img.shields.io/badge/Optuna-1F77B4?style=flat-square&logo=python&logoColor=white)](https://optuna.org) 
+[![SHAP](https://img.shields.io/badge/SHAP-9B59B6?style=flat-square&logo=python&logoColor=white)](https://shap.readthedocs.io) 
+[![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org) 
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
+
+### **Graph ML & Network Analysis**
+[![PyTorch Geometric](https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat-square&logo=pytorch&logoColor=white)](https://pyg.org) 
+[![NetworkX](https://img.shields.io/badge/NetworkX-2C5F9E?style=flat-square&logo=python&logoColor=white)](https://networkx.org) 
+[![Neo4j](https://img.shields.io/badge/Neo4j_Aura-008CC1?style=flat-square&logo=neo4j&logoColor=white)](https://neo4j.com/cloud/aura/) 
+[![Cypher](https://img.shields.io/badge/Cypher-018BFF?style=flat-square&logo=neo4j&logoColor=white)](https://neo4j.com/developer/cypher/) 
+[![OSMnx](https://img.shields.io/badge/OSMnx-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)](https://osmnx.readthedocs.io)
+
+### **NLP & LLM Orchestration**
+[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)](https://spacy.io) 
+[![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/transformers) 
+[![IndoBERT](https://img.shields.io/badge/IndoBERT-DD2222?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/indobenchmark) 
+[![LiteLLM](https://img.shields.io/badge/LiteLLM-6E40C9?style=flat-square&logo=openai&logoColor=white)](https://litellm.ai) 
+[![Chainlit](https://img.shields.io/badge/Chainlit-FF6E6C?style=flat-square&logo=chainlit&logoColor=white)](https://chainlit.io) 
+[![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square&logo=langfuse&logoColor=white)](https://langfuse.com) 
+[![RAGAS](https://img.shields.io/badge/RAGAS-FF4B4B?style=flat-square&logo=python&logoColor=white)](https://docs.ragas.io) 
+[![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4B8BBE?style=flat-square&logo=python&logoColor=white)](https://github.com/tesseract-ocr/tesseract)
+
+### **Optimization & Scientific Computing**
+[![CasADi](https://img.shields.io/badge/CasADi-2E86C1?style=flat-square&logo=python&logoColor=white)](https://web.casadi.org) 
+[![IPOPT](https://img.shields.io/badge/IPOPT-1ABC9C?style=flat-square&logo=python&logoColor=white)](https://coin-or.github.io/Ipopt/) 
+[![do-mpc](https://img.shields.io/badge/do--mpc-34495E?style=flat-square&logo=python&logoColor=white)](https://www.do-mpc.com) 
+[![PuLP](https://img.shields.io/badge/PuLP-1F618D?style=flat-square&logo=python&logoColor=white)](https://coin-or.github.io/pulp/) 
+[![POT](https://img.shields.io/badge/POT-FF6B35?style=flat-square&logo=python&logoColor=white)](https://pythonot.github.io) 
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)](https://scipy.org) 
+[![statsmodels](https://img.shields.io/badge/statsmodels-3E6E9E?style=flat-square&logo=python&logoColor=white)](https://www.statsmodels.org) 
+[![EconML](https://img.shields.io/badge/EconML-005FA3?style=flat-square&logo=microsoft&logoColor=white)](https://econml.azurewebsites.net)
+
+### **MLOps & Serving**
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org) 
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) 
+[![uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)](https://www.uvicorn.org) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) 
+[![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com/compose/) 
+[![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)](https://python-poetry.org) 
+[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://pytest.org) 
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
+### **Web, Cloud & Deployment**
+[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org) 
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) 
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com) 
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com) 
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io) 
+[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_Free-F80000?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/free/) 
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com) 
+[![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/run) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/master888x) 
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com)
 
 
 ## 📊 Machine Learning & Data Science Projects
@@ -98,6 +158,7 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 | **Dynamic Flight Price Forecasting with XGBoost** | • XGBoost Regression (500 iterations)<br>• Feature Engineering (temporal, route, carrier)<br>• Target Encoding<br>• Early Stopping & Regularization<br>• Residual Analysis<br>• 80-20 Train-Test Split | [Report](https://github.com/masterA88/project-docs/blob/main/flight_price_forecasting.pdf) |
 | **Advanced Ensemble Flight Price Prediction (98.47% R²)** | • Stacking Ensemble<br>• Blending Ensemble<br>• XGBoost, LightGBM, CatBoost<br>• Random Forest, Ridge Regression<br>• 5-fold Cross-Validation<br>• Meta-Learner Training | [Report](https://github.com/masterA88/project-docs/blob/main/flight_price_stacking_blending.pdf) |
 | **Flight Price Prediction** | • LightGBM with DART Boosting<br>• Chronological Train/Test Split<br>• SHAP Interpretability<br>• Booking Window Simulation<br>• Holiday Proximity Features<br>• Revenue Elasticity Modeling | [Report](https://github.com/masterA88/project-docs/blob/main/Flight%20Price%20Prediction.pdf) |
+| **Empu Harga — Used-Motorcycle Price Suggestion (Rekomendasi Harga)** | • LightGBM Quantile Regression (α ∈ {0.1, 0.5, 0.9}) on 36 engineered features<br>• Conformalized Quantile Regression / CQR (Romano, Patterson & Candès, 2019) for finite-sample marginal coverage<br>• Spatially-Weighted Conformal Prediction / SW-CP (Hjort, 2025) for per-kecamatan conditional coverage<br>• Hierarchical Bayesian Target Encoding with smoothing across (brand, model, year, kecamatan)<br>• Three-Layer Hierarchical Cold-Start Fallback (feature encoding + calibration + confidence inflation)<br>• Synthetic Indonesian Listings (80k) calibrated against public MSRP + depreciation + BPS-income priors<br>• Kaggle India 2W Cross-Market Structural Validation<br>• 35 models × 11 years × 70 kecamatan × 3 kondisi = 80,850 Precomputed Cells in DuckDB<br>• FastAPI + uvicorn Serving (production reference) + Pre-Baked JSON via Vercel CDN (zero-cost path)<br>• Wasserstein-1 Drift Detector (vs PSI: PSI=+inf where W₁=0.18 on brand drift)<br>• MLflow Experiment Tracking + Optuna 50-trial Hyperparameter Search<br>• Next.js 16 + Tailwind v4 CarGurus-style Deal-Tier UI<br>• 54+ pytest invariants across 9 test files<br>• Cost: Rp 188 per 1,000 suggestions on GCP Cloud Run (4.8× cheaper than naive GPU) | [Report](https://github.com/masterA88/project-docs/blob/main/empu-harga/empu-harga.pdf) [Code](https://github.com/masterA88/rekomendasi-harga-demo) [Demo](https://web-sepia-seven-27.vercel.app) |
 
 ---
 
@@ -132,6 +193,15 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 |--------------|---------------------|-------|
 | **When Minutes Mean Lives: Optimizing Ambulance Placement in New York City with Equity Constraints and Reinforcement Learning** | • Equity Constrained Model (ECM): Novel weighted p Median / p Center hybrid with tunable alpha parameter for efficiency equity Pareto frontier generation (Bertsimas et al., 2011)<br>• p Median Facility Location Problem (demand weighted average RT minimization, MIP via PuLP/CBC)<br>• Maximal Covering Location Problem / MCLP (Church &amp; ReVelle, 1974; 8 minute threshold coverage maximization)<br>• Maximum Expected Covering Location Problem / MEXCLP with M/M/c queueing busy fraction (Daskin, 1983)<br>• OpenStreetMap Road Network Analysis via OSMnx (Boeing, 2025): 55,268 nodes, 139,160 edges, Dijkstra shortest path OD matrix (237 x 237 ZIP codes)<br>• Proximal Policy Optimization (PPO) for dynamic ambulance redeployment (Schulman et al., 2017; Liu &amp; Zeng, ICLR 2024)<br>• Hierarchical Borough Level RL Action Decomposition (Sivagnanam et al., ICML 2024)<br>• Vectorized NumPy RL Environment (1000x faster than SimPy DES, 5 minute time steps, 288 slots/day)<br>• Equity Aware Constrained Reward Function (Gini penalty + Rawlsian P90 penalty)<br>• Gini Coefficient Analysis for Response Time Inequality (Enayati et al., 2023)<br>• NYC 911 EMS Incident Dispatch Data: 18.1M cleaned incidents, 237 ZIP codes, 5 boroughs (FDNY CAD system)<br>• Clinical Survival Estimation: OHCA decay model 7%/min (Holmen et al., 2020)<br>• Pareto Frontier Visualization: 21 solutions across alpha sweep (0.0 to 1.0)<br>• Key Result: ECM reduces worst case RT by 78% (1800s to 392s) with only 19% mean RT increase<br>• RL Agent: 15.3% improvement over random redeployment (explained variance 0.957)<br>• Estimated Impact: 93 to 299 additional cardiac arrest survivors per year<br>• Iterative Debugging: Gini MAD linearization failure, demand scaling error, SimPy speed trap (all documented)<br>• 20 referenced papers spanning OR, RL, health equity, and network science | [Report](https://github.com/masterA88/project-docs/blob/main/ambulance-optimization/When_Minutes_Mean_Lives.pdf) [Code](https://www.kaggle.com/code/master888x/ambulance-optimization) [Flow](https://drive.google.com/file/d/1OsDO6A0-KZTzOhylab3mm5IFRZ2BuHM7/view?usp=sharing) |
 | **Nonlinear MPC for Wind Assisted Ship Propulsion** | • do-mpc + CasADi 3.6 + IPOPT (interior point NLP solver, Wächter &amp; Biegler 2006)<br>• 3 DOF Maneuvering Plant: Fossen (2011) handbook formulation, RK4 integration at 1 s<br>• Flettner Rotor Aerodynamics: Magnus effect, Tillig &amp; Ringsberg (2020) coefficients (C_L, C_D vs spin ratio)<br>• Two MPC Formulations: Tracking NMPC (setpoint, w_track=50, w_fuel=8) and Economic NMPC (fuel primary, w_fuel=150, w_sched=3, slow steaming)<br>• Receding Horizon Optimization (Mayne et al. 2000), 18 to 24 step lookahead<br>• Stochastic Wind Modeling: Two scale Ornstein Uhlenbeck process (Uhlenbeck &amp; Ornstein, 1930), synoptic + gust components<br>• Time Varying Parameter (TVP) Forecast Injection at every control step<br>• Monte Carlo Validation (12 scenarios, all compass directions, Beaufort 4 to 6)<br>• Baseline Comparison: PID engine only vs PID + always on sail vs Tracking MPC vs Economic MPC<br>• Reference Vessel: 6000 DWT bulker (MV Annika Braren class), 4 MW main engine, twin 30m × 4m rotors<br>• Critical Debugging Journey: SFC unit conversion, MPC weight calibration, frozen plant horizon tradeoff, the "fixed sail loses fuel" finding that turned out to be physics not bug | [Report](https://github.com/masterA88/project-docs/blob/main/wind_mpc/wind_mpc_bible.pdf) |
+
+---
+
+### 🤖 RAG & Conversational AI
+*Retrieval-augmented generation, regulatory QA assistants, and zero-budget LLM orchestration*
+
+| Project Title | Methods & Techniques | Links |
+|--------------|---------------------|-------|
+| **Patih — Asisten Regulasi Kemensos (Indonesian Regulation QA Chatbot)** | • Hybrid Retrieval: BM25 (lexical) + Dense `multilingual-e5-large` ONNX INT8 (semantic) + Reciprocal Rank Fusion (RRF)<br>• Parent-Document Retrieval (parent = Pasal, child = ayat/huruf) for citation granularity<br>• LiteLLM 4-Tier Fallback Chain (Gemini Flash → Groq Llama 3.3 → Cerebras Qwen 3 → OpenRouter DeepSeek R1)<br>• HalluGraph-Inspired Layer-2 Citation Validator (entity grounding + whitelist filter)<br>• RAGAS Evaluation Framework (faithfulness, answer relevancy, context precision/recall)<br>• Chainlit Conversational UI with confidence badges (🟢/🟡/🔴) + citation cards + thumbs feedback<br>• Langfuse Self-Host Observability (traces, prompts, evaluation runs)<br>• SQLite Conversation Persistence (`data/conversations.db`)<br>• PDF Ingestion Pipeline (PyMuPDF + Tesseract OCR fallback, doc registry, structure-aware chunking)<br>• Phase 1 Corpus: Permensos No. 8 Tahun 2023 (Tindak Pidana Perdagangan Orang & PMI Bermasalah); Phase 2+ multi-document expansion<br>• Bahasa Indonesia + English language detection with locale-aware prompt routing<br>• ONNX INT8 Quantization (~600MB) for ARM-Ampere compatibility<br>• Docker Compose + systemd deploy to Oracle Cloud Always Free (4 ARM Ampere A1 cores, 24GB RAM)<br>• Golden-Set Test Harness (unit + integration + retrieval-golden tiers)<br>• Total run cost: **$0/month** | [Report](https://github.com/masterA88/project-docs/blob/main/patih/patih.pdf) |
 
 ---
 
