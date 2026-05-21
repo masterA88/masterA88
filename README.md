@@ -2,20 +2,11 @@
 
 [![Website](https://img.shields.io/badge/🌐_My_Website-master--hilmi.vercel.app-blue?style=for-the-badge)](https://master-hilmi.vercel.app/)
 
-
-### 🚀 **Ready for some brainy fun?**
-
-Grid Shortest Path – Can you outsmart the maze?
-[![Play Math Game](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://grid-shortest-paths-centxwvma3bedjj3g9uhod.streamlit.app/)
-
-
-Sketch2Equation – Doodle a curve, and watch the math do its magic!
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sketch2equation-vsftbwt7q8vkrhfejcrqbz.streamlit.app/)
-
-### 😄 **Need a giggle break?**
-
-🤣 Try my AI-powered joke machine — it might just crack you up!
-[![Jokes App](https://img.shields.io/badge/Joke%20App-Play-green)](https://mastera88.github.io/ai-jokes-generator/)
+<p align="center">
+  <a href="https://master-hilmi.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&multiline=false&width=780&lines=Applied+Mathematician+%E2%86%92+Salesforce+Architect;Optimal+Transport+%E2%80%A2+Graph+ML+%E2%80%A2+Causal+Inference;5+OT+projects+%E2%80%A2+30%2B+ML+benchmark+portfolio;MSc+InterMaths+(Italy+%2B+Poland)+%E2%80%A2+Jakarta+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing animation"/>
+  </a>
+</p>
 
 
 
