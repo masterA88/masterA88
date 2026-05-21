@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://master-hilmi.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&multiline=false&width=900&height=45&lines=Applied+Mathematician;Optimal+Transport+%E2%80%A2+Graph+ML+%E2%80%A2+Causal+Inference;5+OT+projects+%E2%80%A2+30%2B+ML+benchmark+portfolio;MSc+InterMaths+(Italy+%2B+Poland)+%E2%80%A2+Indonesia+%F0%9F%87%AE%F0%9F%87%A9+%E2%80%A2+The+Netherlands+%F0%9F%87%B3%F0%9F%87%B1" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&multiline=false&width=900&height=45&lines=Applied+Mathematician+%E2%86%92+Data+Consultant;Optimal+Transport+%E2%80%A2+Graph+ML+%E2%80%A2+Causal+Inference;5+OT+projects+%E2%80%A2+30%2B+ML+benchmark+portfolio;MSc+InterMaths+(Italy+%2B+Poland)+%E2%80%A2+Indonesia+%F0%9F%87%AE%F0%9F%87%A9+%E2%80%A2+The+Netherlands+%F0%9F%87%B3%F0%9F%87%B1" alt="Typing animation"/>
   </a>
 </p>
 
