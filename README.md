@@ -138,7 +138,9 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 
 ## 📊 Machine Learning & Data Science Projects
 
-### 🔮 Forecasting & Time Series
+<details>
+<summary><h3>🔮 Forecasting & Time Series</h3></summary>
+
 *Temporal pattern modeling, sequential prediction, and dynamic pricing systems*
 
 | Project Title | Methods & Techniques | Links |
@@ -151,9 +153,13 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 | **Flight Price Prediction** | • LightGBM with DART Boosting<br>• Chronological Train/Test Split<br>• SHAP Interpretability<br>• Booking Window Simulation<br>• Holiday Proximity Features<br>• Revenue Elasticity Modeling | [Report](https://github.com/masterA88/project-docs/blob/main/Flight%20Price%20Prediction.pdf) |
 | **Empu Harga — Used-Motorcycle Price Suggestion (Rekomendasi Harga)** | • LightGBM Quantile Regression (α ∈ {0.1, 0.5, 0.9}) on 36 engineered features<br>• Conformalized Quantile Regression / CQR (Romano, Patterson & Candès, 2019) for finite-sample marginal coverage<br>• Spatially-Weighted Conformal Prediction / SW-CP (Hjort, 2025) for per-kecamatan conditional coverage<br>• Hierarchical Bayesian Target Encoding with smoothing across (brand, model, year, kecamatan)<br>• Three-Layer Hierarchical Cold-Start Fallback (feature encoding + calibration + confidence inflation)<br>• Synthetic Indonesian Listings (80k) calibrated against public MSRP + depreciation + BPS-income priors<br>• Kaggle India 2W Cross-Market Structural Validation<br>• 35 models × 11 years × 70 kecamatan × 3 kondisi = 80,850 Precomputed Cells in DuckDB<br>• FastAPI + uvicorn Serving (production reference) + Pre-Baked JSON via Vercel CDN (zero-cost path)<br>• Wasserstein-1 Drift Detector (vs PSI: PSI=+inf where W₁=0.18 on brand drift)<br>• MLflow Experiment Tracking + Optuna 50-trial Hyperparameter Search<br>• Next.js 16 + Tailwind v4 CarGurus-style Deal-Tier UI<br>• 54+ pytest invariants across 9 test files<br>• Cost: Rp 188 per 1,000 suggestions on GCP Cloud Run (4.8× cheaper than naive GPU) | [Report](https://github.com/masterA88/project-docs/blob/main/empu-harga/empu-harga.pdf) [Code](https://github.com/masterA88/rekomendasi-harga-demo) [Demo](https://web-sepia-seven-27.vercel.app) |
 
+</details>
+
 ---
 
-### 🌐 Graph Machine Learning
+<details>
+<summary><h3>🌐 Graph Machine Learning</h3></summary>
+
 *Relational data modeling, network analysis, and graph-based recommendation*
 
 | Project Title | Methods & Techniques | Links |
@@ -163,9 +169,13 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 | **Deep Learning for Railway Delay Prediction & Management** | • Periodic Event Scheduling Problem (PESP)<br>• Graph Neural Networks (GNN)<br>• Graph Attention Networks (GAT)<br>• Long Short-Term Memory (LSTM)<br>• Spatiotemporal Modeling<br>• Reinforcement Learning (PPO)<br>• Delay Propagation Modeling<br>• Uncertainty Quantification (MC Dropout)<br>• Real-Time Prediction System | [Report](https://github.com/masterA88/project-docs/blob/main/railway_delay_summary_github.pdf) |
 | **Graph-Based Fraud Detection: From Theory to Production** | Industry workshop for fintech compliance teams (Feb 2026)<br>• 45-minute technical deep dive<br>• Live Neo4j/Python demo<br>• Q&A on production deployment • Neo4j Aura + NetworkX<br>• 36-client fraud ring detection<br>• Eigenvector centrality for ringleader identification | [Workshop Slides](https://www.canva.com/design/DAG_NgE7yI0/nIpfRcVRKL5A5uYNOgbvnA/view?utm_content=DAG_NgE7yI0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5c3e0eb1b8) [Demo Code](https://github.com/masterA88/project-docs/tree/main/fraud_detection_using%20NEO4J) 
 | **Graph-Based E-Commerce Recommender System** | • Neo4j Graph Database<br>• Cypher Query Language<br>• Jaccard Similarity Index<br>• Collaborative Filtering<br>• Graph Traversal Algorithms<br>• Network Visualization<br>• Real-time Recommendation Engine | [Report](https://github.com/masterA88/project-docs/blob/main/graph_recommender_system.pdf)<br>[Code](#) 
+</details>
+
 ---
 
-### 📦 Optimal Transport
+<details>
+<summary><h3>📦 Optimal Transport</h3></summary>
+
 | Project Title | Methods & Techniques | Links |
 |--------------|---------------------|-------|
 | **Wasserstein Logistics: Optimal Transport for Indonesian Supply Chains** | • Classical Kantorovich LP (Network Simplex, Birkhoff bound validation)<br>• Entropic OT / Sinkhorn Algorithm (ε sweep 0.001–1.0)<br>• Unbalanced OT with KL Marginal Relaxation (Chizat et al. 2018)<br>• Partial OT with Capacity Constraints (Chapel et al. 2020)<br>• Graph-Augmented Cost Matrices (Dijkstra shortest paths, hybrid α-interpolation)<br>• Novel Multi-Period Dynamic OT (Temporal Frobenius coupling, λ sweep 0.01–1.0)<br>• Block-Coordinate Proximal Sinkhorn with Gradient Clipping<br>• 3 Indonesian Networks (Jabodetabek 12×200, Java Intercity 8×150, Archipelago 50×90)<br>• 4 Seasonal Scenarios (Normal S/D≈1.2, Ramadan S/D≈0.4, Harbolnas S/D≈0.1, Lebaran S/D≈0.5)<br>• Segment-Aware Demand Generation (Food ×2.5 Ramadan, Electronics ×4.5 Harbolnas)<br>• Fairness Analysis (Gini coefficient, urban/rural fulfilment ratios up to 14:1)<br>• N_RUNS=5 Statistical Validation with Bootstrap Confidence Intervals<br>• POT Library (Python Optimal Transport) | [Report](https://github.com/masterA88/project-docs/blob/main/wasserstein-logistics/wasserstein_v4.pdf) [Code](https://github.com/masterA88/wasserstein-logistics)
@@ -175,9 +185,13 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 
 
 
+</details>
+
 ---
 
-### 🚑 Operations Research & Optimization
+<details>
+<summary><h3>🚑 Operations Research & Optimization</h3></summary>
+
 *Facility location, equity constrained optimization, and reinforcement learning for emergency services*
 
 | Project Title | Methods & Techniques | Links |
@@ -185,18 +199,26 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 | **When Minutes Mean Lives: Optimizing Ambulance Placement in New York City with Equity Constraints and Reinforcement Learning** | • Equity Constrained Model (ECM): Novel weighted p Median / p Center hybrid with tunable alpha parameter for efficiency equity Pareto frontier generation (Bertsimas et al., 2011)<br>• p Median Facility Location Problem (demand weighted average RT minimization, MIP via PuLP/CBC)<br>• Maximal Covering Location Problem / MCLP (Church &amp; ReVelle, 1974; 8 minute threshold coverage maximization)<br>• Maximum Expected Covering Location Problem / MEXCLP with M/M/c queueing busy fraction (Daskin, 1983)<br>• OpenStreetMap Road Network Analysis via OSMnx (Boeing, 2025): 55,268 nodes, 139,160 edges, Dijkstra shortest path OD matrix (237 x 237 ZIP codes)<br>• Proximal Policy Optimization (PPO) for dynamic ambulance redeployment (Schulman et al., 2017; Liu &amp; Zeng, ICLR 2024)<br>• Hierarchical Borough Level RL Action Decomposition (Sivagnanam et al., ICML 2024)<br>• Vectorized NumPy RL Environment (1000x faster than SimPy DES, 5 minute time steps, 288 slots/day)<br>• Equity Aware Constrained Reward Function (Gini penalty + Rawlsian P90 penalty)<br>• Gini Coefficient Analysis for Response Time Inequality (Enayati et al., 2023)<br>• NYC 911 EMS Incident Dispatch Data: 18.1M cleaned incidents, 237 ZIP codes, 5 boroughs (FDNY CAD system)<br>• Clinical Survival Estimation: OHCA decay model 7%/min (Holmen et al., 2020)<br>• Pareto Frontier Visualization: 21 solutions across alpha sweep (0.0 to 1.0)<br>• Key Result: ECM reduces worst case RT by 78% (1800s to 392s) with only 19% mean RT increase<br>• RL Agent: 15.3% improvement over random redeployment (explained variance 0.957)<br>• Estimated Impact: 93 to 299 additional cardiac arrest survivors per year<br>• Iterative Debugging: Gini MAD linearization failure, demand scaling error, SimPy speed trap (all documented)<br>• 20 referenced papers spanning OR, RL, health equity, and network science | [Report](https://github.com/masterA88/project-docs/blob/main/ambulance-optimization/When_Minutes_Mean_Lives.pdf) [Code](https://www.kaggle.com/code/master888x/ambulance-optimization) [Flow](https://drive.google.com/file/d/1OsDO6A0-KZTzOhylab3mm5IFRZ2BuHM7/view?usp=sharing) |
 | **Nonlinear MPC for Wind Assisted Ship Propulsion** | • do-mpc + CasADi 3.6 + IPOPT (interior point NLP solver, Wächter &amp; Biegler 2006)<br>• 3 DOF Maneuvering Plant: Fossen (2011) handbook formulation, RK4 integration at 1 s<br>• Flettner Rotor Aerodynamics: Magnus effect, Tillig &amp; Ringsberg (2020) coefficients (C_L, C_D vs spin ratio)<br>• Two MPC Formulations: Tracking NMPC (setpoint, w_track=50, w_fuel=8) and Economic NMPC (fuel primary, w_fuel=150, w_sched=3, slow steaming)<br>• Receding Horizon Optimization (Mayne et al. 2000), 18 to 24 step lookahead<br>• Stochastic Wind Modeling: Two scale Ornstein Uhlenbeck process (Uhlenbeck &amp; Ornstein, 1930), synoptic + gust components<br>• Time Varying Parameter (TVP) Forecast Injection at every control step<br>• Monte Carlo Validation (12 scenarios, all compass directions, Beaufort 4 to 6)<br>• Baseline Comparison: PID engine only vs PID + always on sail vs Tracking MPC vs Economic MPC<br>• Reference Vessel: 6000 DWT bulker (MV Annika Braren class), 4 MW main engine, twin 30m × 4m rotors<br>• Critical Debugging Journey: SFC unit conversion, MPC weight calibration, frozen plant horizon tradeoff, the "fixed sail loses fuel" finding that turned out to be physics not bug | [Report](https://github.com/masterA88/project-docs/blob/main/wind_mpc/wind_mpc_bible.pdf) |
 
+</details>
+
 ---
 
-### 🤖 RAG & Conversational AI
+<details>
+<summary><h3>🤖 RAG & Conversational AI</h3></summary>
+
 *Retrieval-augmented generation, regulatory QA assistants, and zero-budget LLM orchestration*
 
 | Project Title | Methods & Techniques | Links |
 |--------------|---------------------|-------|
 | **Patih — Asisten Regulasi Kemensos (Indonesian Regulation QA Chatbot)** | • Citation-enforced **Hybrid Parent-Document RAG**: BM25 (lexical) + dense `multilingual-e5-large` ONNX (semantic) fused via Reciprocal Rank Fusion (k=60); parent = Pasal, child = ayat/huruf for citation granularity<br>• **Multi-document corpus** — 22 Indonesian social-affairs regulations (19 article-structured + 3 reference docs) with document-scoped cross-reference resolution + always-on definitions article (Document-Level Retrieval Mismatch mitigation, implicit routing)<br>• Legislation-aware structure parser (BAB/Bagian/Pasal/ayat/huruf AST + 5 real-world fixes: Penjelasan strip, omnibus exclusion, pre-BAB recovery, period tolerance, cross-chapter de-dup) + generic section-chunker for non-Pasal docs (SOP/RPJMN)<br>• **HalluGraph-inspired Layer-2 validators**: citation whitelist + Entity-Grounding + Relation-Preservation → threshold gate → HITL queue + confidence badge (🟢/🟡/🔴)<br>• Calibrated abstention (refuses out-of-scope questions)<br>• **LiteLLM** gateway with per-provider token buckets + fallback chain — Groq Llama 3.3 70B (workhorse) → Gemini 2.5 Flash → Cerebras Qwen 3 → OpenRouter<br>• Bilingual ID/EN (translate the query, not the corpus; citations stay verbatim Indonesian)<br>• Folder-watcher ingest with auto-generated metadata sidecars; PyMuPDF + Tesseract OCR (`ind`) fallback for scans<br>• RAGAS evaluation framework + tiered 50-question golden set; 5/7 acceptance thresholds PASS (RP 0.98, EG 1.00, refusal 100%, P95 ~4–7s, 0 hard-fail)<br>• Chainlit conversational UI + mounted FastAPI sidecar (`/health`, `/api/query`); SQLite persistence; Langfuse tracing<br>• **Local-first** — data/embeddings/retrieval/index on-device; only the LLM call is cloud; e5-large ONNX FP32 on CPU<br>• 307-test suite (unit + integration + golden)<br>• Total run cost: **$0/month** (free-tier LLM) | [Report](https://github.com/masterA88/patih/blob/main/docs/patih_v3.pdf) [Code](https://github.com/masterA88/patih) |
 
+</details>
+
 ---
 
-### 🗣️ Natural Language Processing (NLP)
+<details>
+<summary><h3>🗣️ Natural Language Processing (NLP)</h3></summary>
+
 *Text classification, sentiment analysis, and linguistic feature engineering*
 
 | Project Title | Methods & Techniques | Links |
@@ -207,9 +229,13 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 | **Comparative Analysis: ML vs Deep Learning for Sentiment** | • Random Forest, SVC, Decision Tree<br>• LSTM Neural Networks<br>• TensorFlow/Keras<br>• Word Embeddings (128-dim)<br>• Dropout Regularization<br>• GridSearchCV | [Report](https://github.com/masterA88/project-docs/blob/main/sentiment_sklearn_tensorflow.pdf) |
 | **NLP-Based Password Strength Classification** | • TF-IDF Character N-grams<br>• Shannon Entropy Calculation<br>• Pattern Recognition<br>• Dictionary Word Detection<br>• Keyboard Adjacency Detection | [Report](https://github.com/masterA88/project-docs/blob/main/password_strength_nlp%20v2.pdf) |
 
+</details>
+
 ---
 
-### 📊 Statistical Analysis & Inference
+<details>
+<summary><h3>📊 Statistical Analysis & Inference</h3></summary>
+
 *Hypothesis testing, experimental design, and causal frameworks*
 
 | Project Title | Methods & Techniques | Links |
@@ -219,18 +245,26 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 | **Statistical Investigation of Fandango Rating Bias** | • Benjamini-Hochberg FDR Correction<br>• Bootstrap Confidence Intervals (10,000 resamples)<br>• Benford's Law Fraud Detection<br>• Non/Parametric Testing (Mann-Whitney U, t-tests)<br>• Natural Experiment Design<br>• Causal Inference Framework | [Report](https://github.com/masterA88/project-docs/blob/main/fandango_analysis_latex_summary.pdf) |
 
 
+</details>
+
 ---
 
-### ⚠️ Anomaly Detection
+<details>
+<summary><h3>⚠️ Anomaly Detection</h3></summary>
+
 *Outlier identification and irregular pattern discovery*
 
 | Project Title | Methods & Techniques | Links |
 |--------------|---------------------|-------|
 | **HybridGAD: Multi-Strategy Graph Neural Network for Financial Fraud Detection** | • Graph Convolutional Networks (3-layer, 128-dim hidden)<br>• Multi-Strategy Fusion (RQGNN + GGAD + GAD-NR)<br>• Multi-Head Attention Mechanism (4 heads, adaptive weighting)<br>• Financial Transaction Graph Analysis (10K-100K nodes)<br>• Synthetic Fraud Pattern Generation (5 types: collusion, laundering, wash trading, Ponzi, camouflaged)<br>• Barabási-Albert Scale-Free Network Topology<br>• Class Imbalance Handling (33x fraud weighting for 2% fraud rate)<br>• Optimal Threshold Selection via Precision-Recall Curve<br>• Benford's Law Feature Engineering (20-dimensional financial attributes)<br>• Early Stopping & Learning Rate Scheduling (ReduceLROnPlateau)<br>• Camouflage Level Control (Low/Medium/High difficulty)<br>• PyTorch Geometric Implementation (190K parameters)<br>• Perfect Detection on Low-Camouflage Synthetic Data (F1=1.0, AUC-ROC=1.0)<br>  | [Report](https://github.com/masterA88/project-docs/blob/main/HybridGAD.pdf) [Code](https://github.com/masterA88/HybridGAD) 
 
+</details>
+
 ---
 
-### 💼 Business Analytics & Visualization
+<details>
+<summary><h3>💼 Business Analytics & Visualization</h3></summary>
+
 *Market analysis, strategic decision support, and insight-driven visualization*
 
 | Project Title | Methods & Techniques | Links |
@@ -238,12 +272,20 @@ Welcome to my GitHub profile! Here you will find a collection of projects, scrip
 | **Data-Driven Market Selection for E-Learning Platform** | • Market Sizing Analysis<br>• Willingness-to-Pay Analysis<br>• Composite Scoring<br>• Geographic Heat Mapping<br>• Quadrant Analysis | [Report](https://github.com/masterA88/project-docs/blob/main/market_analysis_elearning.pdf) |
 | **College Major Economic Outcomes Visualization** | • Scatter Plots, Histograms, Box Plots<br>• Distribution & Correlation Analysis<br>• Gender Equity Analysis<br>• Data Normalization | [Report](https://github.com/masterA88/project-docs/blob/main/college_major_earnings.pdf) |
 
+</details>
+
 ---
-### 🎤 Speaking & Workshops
+
+<details>
+<summary><h3>🎤 Speaking & Workshops</h3></summary>
+
 *Technical workshops delivered to industry audiences*
 
 | Workshop Title | Audience & Context | Core Technical Project | Materials |
 |---------------|-------------------|------------------------|-----------|
 | **Graph-Based Fraud Detection: From Theory to Production** | Industry workshop (Feb 2026)<br>• 45-minute technical deep dive<br>• Live Neo4j/Python demo<br>• Q&A on production deployment | [Graph ML Project](#-graph-machine-learning)<br>• Neo4j Aura + NetworkX<br>• 36-client fraud ring detection<br>• Eigenvector centrality for ringleader identification | [Workshop Slides](https://www.canva.com/design/DAG_NgE7yI0/nIpfRcVRKL5A5uYNOgbvnA/view?utm_content=DAG_NgE7yI0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5c3e0eb1b8)<br>[Demo Code](https://github.com/masterA88/project-docs/tree/main/fraud_detection_using%20NEO4J) |
 | **Graph-Based E-Commerce Recommender System** | Workshop<br>• 60-minute technical deep dive<br>• Theoritical Fundamentals on graphs<br>• Live Python demo   |[Graph ML Project](#-graph-machine-learning)<br> • Neo4j Graph Database<br>• Cypher Query Language<br>• Jaccard Similarity Index<br>• Collaborative Filtering<br>• Graph Traversal Algorithms<br>• Network Visualization<br>• Real-time Recommendation Engine | [Report](https://github.com/masterA88/project-docs/blob/main/graph_recommender_system.pdf)<br>[Code](#) 
+
+</details>
+
 ---
